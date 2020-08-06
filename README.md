@@ -7,9 +7,11 @@ $ rails db:create
 $ rails db:migrate:status
 (if migrations are down=> $ rails db:migrate)
 $ rails db:seed
-# to launch and keep the server running type...
+
+**** to launch and keep the server running type...
 $ rails server
-# to open the console to play with the app, open another terminal and type...
+
+**** to open the console to play with the app, open another terminal and type...
 $ rails console --sandbox
 
 This application was done up to this point over 4 days by our group including:
